@@ -1,18 +1,12 @@
 [tool.poetry]
-name = "agent-jobmatch"
+name = "talentsync"
 version = "0.1.0"
 description = ""
-authors = ["Priscilla Nascimento Santos <priscilla.batista18@gmail.com>"]
+authors = ["Priscilla Santos <priscilla.batista18@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.10.6"
-pillow = "^10.3.0"
-crewai = "^0.32.0"
-crewai-tools = "^0.3.0"
-streamlit = "^1.36.0"
-fitz = "^0.0.1.dev2"
-frontend = "^0.0.3"
+python = "^3.11"
 
 
 [build-system]
